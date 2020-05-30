@@ -17,4 +17,4 @@ see my other DQN models for more detailed writeups.
 
 **After 750 Epochs**
 
-![](visuals/trainedGIf.gif)
+![](visuals/trainedGIF.gif)
